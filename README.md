@@ -1,6 +1,7 @@
 # Intro To Text Analysis
 
-This workshop will use the programming language **Python** to perform some common text analysis  tasks. No previous experience of usiing Python is required, we will not be taking a deep-dive into programming but rather just using some basic commands to handle and analyse text.   
+This tutorial on Text Analysis was developed for CDCS by **Dave Elsmore** [Edina](https://edina.ac.uk/).
+This workshop uses the programming language **Python** to perform some common text analysis  tasks. No previous experience of using Python is required, we will not be taking a deep-dive into programming but rather just using some basic commands to handle and analyse text.   
 
 ### Areas we will cover:
 

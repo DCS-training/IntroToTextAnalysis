@@ -10,6 +10,10 @@ This workshop will use the programming language **Python** to perform some commo
 - Frequency distribution
 - Parts of speech tagging
 
+## Copyright
+
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 ## How to use this repository
 
 Inside this repository you are going to find an a Jupyter Notebooks that will allow learning how to perform text analysis and a series of datasets (.txt files).

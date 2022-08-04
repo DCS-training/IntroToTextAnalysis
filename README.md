@@ -13,7 +13,7 @@ This workshop will use the programming language **Python** to perform some commo
 ## How to use this repository
 
 Inside this repository you are going to find an a Jupyter Notebooks that will allow learning how to perform text analysis and a series of datasets (.txt files).
-
+If you want more information on how to use RegEx (Regular Expression) via Python you can have a look to this [module](https://www.w3schools.com/python/python_regex.asp).
 
 ## How to use the Jupyter Notebooks
 

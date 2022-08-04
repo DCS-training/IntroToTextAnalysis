@@ -35,7 +35,6 @@ Make sure you know the location they have been downloaded to (usually your 'Down
 2.  Now click the blue 'Upload' button to load it into Noteable
 3.  Once the file has been uploaded, click on the filename to start the Notebook
 
-NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
 
 ### 2. Installing Python via Anaconda
 
@@ -68,8 +67,6 @@ To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Noteboo
 4. Select Upload again
 5. Double click on the uploaded file 
 
-NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
-
 [anaconda]: https://www.anaconda.com/distribution
 [anaconda-dl]: https://www.anaconda.com/download/
 [python]: https://python.org
@@ -84,8 +81,6 @@ Open Google Colab: [https://colab.research.google.com](https://colab.research.go
 If you are not already logged you will be prompted to log-in via gmail
 #### Upload the Notebook to Noteable
 1. Go on the GitHub header and copy paste the link to the notebook you want to use and press enter
-
-NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
 
 ### 4. Using the Notebook
 The Notebook contains paragraphs of explanatory text interspersed with grey cells containg code blocks. To run a code block and see the result:

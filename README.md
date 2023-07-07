@@ -84,8 +84,9 @@ To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Noteboo
 
 Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com)
 If you are not already logged you will be prompted to log-in via gmail
-#### Upload the Notebook to Noteable
-1. Go on the GitHub header and copy paste the link to the notebook you want to use and press enter
+
+#### Upload the Notebook to Google Colab
+1. Go on the GitHub header and copy paste [this link](https://github.com/DCS-training/IntroToTextAnalysis/blob/main/intro_text_analysis_2023_googleColab.ipynb) to the notebook you want to use and press enter
 
 ### 4. Using the Notebook
 The Notebook contains paragraphs of explanatory text interspersed with grey cells containg code blocks. To run a code block and see the result:
